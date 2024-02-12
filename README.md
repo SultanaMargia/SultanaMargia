@@ -1,3 +1,6 @@
+Hi there I'm Kazi Sultana Margia👋👩‍💻
+
+## About Me
 - 👋 Hi, I’m @SultanaMargia
 - 👀  I’m interested to work as a Software Quality Assurance Engineer
 - 🛠  Skills: Manual Testing, Test Case, Test report, matrix, API testing, Postman, Performance testing with Jmeter, Jira
