@@ -2,7 +2,9 @@
 - 👀  I’m interested to work as a Software Quality Assurance Engineer
 - 🛠  Skills: Manual Testing, Test Case, Test report, matrix, API testing, Postman, Performance testing with Jmeter, Jira
 - 🌱 I’m currently learning  Web Automation with Selenium
-- 👩‍💻 Linkedin Profile
+
+-  👩‍💻 <a href= "https://www.linkedin.com/in/sultana-margia-10539b2b4/"> Linkedin Profile<a/>
+
 - 📫 How to reach me: richisultana62@gmail.com
 
 <!---
